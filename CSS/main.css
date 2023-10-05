@@ -46,7 +46,7 @@ p{
 .header.fixed {
    height: auto;
    position: fixed;
-   background: #31344e url("/img/intro-bg.jpg") center no-repeat;
+   background: #31344e url("./img/intro-bg.jpg") center no-repeat;
 
 }
 
@@ -105,7 +105,7 @@ nav{
    flex-direction: column;
    justify-content: center;
    height: 750px;
-   background: #31344e url("/img/intro-bg.jpg") center no-repeat;
+   background: #31344e  url("./img/intro-bg.jpg") center no-repeat;
    background-size: cover;
    padding-top: 100px;
    text-align: center;
